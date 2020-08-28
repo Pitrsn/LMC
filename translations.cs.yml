@@ -1,0 +1,33 @@
+benefits:
+  benefit-1:
+    name: "Jméno - 1"
+    icon: "ico-1"
+  benefit-2:
+    name: "Jméno - 2"
+    icon: "ico-2"
+
+
+vacancy-list:
+  filter:
+    button: "Odeslat"
+    localityLabel: "Lokalita"
+    branchLabel: "Obor"
+  list:
+    title: "Volná místa"
+    button: "Načíst další"
+    count: {count} "Volné místo | Volné místa | Volných míst"
+    icons:
+      graduate: "Pozice vhodná pro absolventy"
+      handicap: "Pozice vhodná pro OZP"
+
+
+vacancy-detail:
+  buttons:
+    reply: "Odpovědet"
+    back: "Zpět na výpis pozic",
+  info:
+    locality: "Místo pracoviště"
+    branch: "Obor"
+  share:
+    fb: "Sdílet na facebook"
+    tw: "Sdílet na twitter"
