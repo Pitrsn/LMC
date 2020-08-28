@@ -1,6 +1,6 @@
 # Jak určit jazyk
 
-1. Podle parametru v url - Není nutný konfig v site.json
+1. Podle parametru v url - Není nutný config v site.json
     * /cs
     * /en
     
@@ -17,4 +17,4 @@
     V site.json se musi urcit default jazyk + dopsat langs ke strankam
     
     * Výhody: Velka možnost konfigurace. Muzu si zvolit, zda chci /en/vacancies, nebo /vacancies
-    * Nevýhody: Musím duplikovat/tripolikovat pocet stranek v site.json. SIce pouzivaji stejnou sablonu, ale musim jednotlive stranky definovat vícekrat.
+    * Nevýhody: Musím duplikovat/triplikovat pocet stranek v site.json. Sice pouzivaji stejnou sablonu, ale musim jednotlive stranky definovat vícekrat.
