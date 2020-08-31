@@ -5,14 +5,16 @@
     * /en
     
     V site.json by se pouze urcil default lang a to je vse.
+    V site.json by se urcilo, zda default jazyk zobrazovat nebo ne.
     
     * Výhody: Minimální konfigurace, na nic se nezapomene
-    * Nevýhody: Není možné dělat url typu /volna-mista /vacancies bez zadaneho jazyku
+    * Nevýhody: Není možné dělat url typu /vacancies bez zadaneho jazyku
     
 2. Podle konfigu v site.json
 
     U definice stranky pribude polozka lang, kde se urci o jaky jazyk se jedná
     Kompletní správa na straně CD
+    Resime default jazyk, ostatni jazyky
     
     V site.json se musi urcit default jazyk + dopsat langs ke strankam
     
